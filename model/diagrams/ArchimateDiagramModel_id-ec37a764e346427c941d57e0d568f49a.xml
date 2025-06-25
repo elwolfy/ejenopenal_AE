@@ -381,7 +381,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-4c202fb22789468bafbb871fd5ca42d5"
         targetConnections="id-f0f5962213be4356932619e14b48bc2b"
-        textAlignment="1">
+        textAlignment="1"
+        fillColor="#6fb7ff">
       <bounds
           x="468"
           y="48"
