@@ -1,6 +1,7 @@
 <archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analiza datos del dominio"
     id="id-dc58af6880a8404091f525322f57b094">
   <source
       xsi:type="archimate:BusinessActor"
