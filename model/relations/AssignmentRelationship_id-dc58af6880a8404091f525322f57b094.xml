@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analiza datos del dominio"
+    id="id-dc58af6880a8404091f525322f57b094">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-fa3830ce72524189879b8460d38ef311.xml#id-fa3830ce72524189879b8460d38ef311"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-4677dc4dd4364c7b8d4569f2f5931b62.xml#id-4677dc4dd4364c7b8d4569f2f5931b62"/>
+</archimate:AssignmentRelationship>
