@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="172 MEMSPEXT02 - Producción"
+    id="id-e333c7b5fd754586b4bc85b0b3c7b0be"
+    documentation="Servidor EXTRANET Producción 172.25.3.39:8091 8092 8093 8094 8095, respaldo de la página web Extranet (172.25.3.40:8091) - Red Hat Enterprise Linux 8 (64-bit)"/>
