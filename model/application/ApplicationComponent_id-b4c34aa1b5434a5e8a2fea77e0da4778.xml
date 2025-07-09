@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Convertor de Formato"
+    id="id-b4c34aa1b5434a5e8a2fea77e0da4778"
+    documentation="Convierte de PDF a Texto o Convierte a Image, OCR y finalmente a Texto&#xD;&#xA;&#xD;&#xA;"/>
