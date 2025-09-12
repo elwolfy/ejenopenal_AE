@@ -96,10 +96,10 @@
           href="CompositionRelationship_id-27a6632eb11d4fddaa752c7a64469907.xml#id-27a6632eb11d4fddaa752c7a64469907"/>
     </sourceConnections>
     <bounds
-        x="1104"
-        y="60"
-        width="193"
-        height="517"/>
+        x="840"
+        y="72"
+        width="433"
+        height="685"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-302e5b49ba694b0096c456f04254b53b"
