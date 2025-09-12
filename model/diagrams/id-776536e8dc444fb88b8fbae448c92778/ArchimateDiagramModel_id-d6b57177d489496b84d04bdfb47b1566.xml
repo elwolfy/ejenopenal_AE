@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="12. Arquitectura de Aplicaciones - TO BE"
-    id="id-d6b57177d489496b84d04bdfb47b1566"/>
+    id="id-d6b57177d489496b84d04bdfb47b1566">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-bd698803423e4b5d89e4ca69e77f567f">
+    <bounds
+        x="120"
+        y="48"
+        width="193"
+        height="97"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-0f8c04c517c747f09c41de2b06282754.xml#id-0f8c04c517c747f09c41de2b06282754"/>
+  </children>
+</archimate:ArchimateDiagramModel>
