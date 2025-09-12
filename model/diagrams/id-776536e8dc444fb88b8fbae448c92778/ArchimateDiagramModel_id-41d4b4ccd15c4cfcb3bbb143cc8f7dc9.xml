@@ -175,7 +175,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-fa2cad64b0fa45fa9df9e779e7afbebd"
-        targetConnections="id-852fd4769428497a90ad612268fac918 id-f6a92829432b4c84a9874a6159ad34fa id-5f1ee587728b4fdeb9cf2fd10331dba7">
+        targetConnections="id-852fd4769428497a90ad612268fac918 id-f6a92829432b4c84a9874a6159ad34fa id-5f1ee587728b4fdeb9cf2fd10331dba7"
+        type="1">
       <bounds
           x="292"
           y="60"
@@ -943,10 +944,19 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-ee988066591f493fa1ea646197cef440.xml#id-ee988066591f493fa1ea646197cef440"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-9953a516253d4e8e8c48d3a907518130"
+        source="id-04f055ed570548ccaa4a4bcc64394f5b"
+        target="id-b798fd99a46c4588acb44c135db26884">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-4a31abce8199433b90557a3514f33a1b.xml#id-4a31abce8199433b90557a3514f33a1b"/>
+    </sourceConnections>
     <bounds
         x="840"
         y="106"
-        width="178"
+        width="397"
         height="211"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -983,6 +993,19 @@
           xsi:type="archimate:Node"
           href="Node_id-f340312900bd4a568b1b6296311a7ce7.xml#id-f340312900bd4a568b1b6296311a7ce7"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-b798fd99a46c4588acb44c135db26884"
+        targetConnections="id-9953a516253d4e8e8c48d3a907518130">
+      <bounds
+          x="216"
+          y="35"
+          width="145"
+          height="158"/>
+      <archimateElement
+          xsi:type="archimate:TechnologyService"
+          href="TechnologyService_id-61fbd2763a6647f8b911974db2391e98.xml#id-61fbd2763a6647f8b911974db2391e98"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Node"
         href="Node_id-9171878b2012433ead23e524436a9226.xml#id-9171878b2012433ead23e524436a9226"/>
@@ -1014,8 +1037,8 @@
           href="AssociationRelationship_id-66ea370712c44225989e5dad78f3a1be.xml#id-66ea370712c44225989e5dad78f3a1be"/>
     </sourceConnections>
     <bounds
-        x="828"
-        y="358"
+        x="924"
+        y="370"
         width="120"
         height="55"/>
     <archimateElement
@@ -1045,9 +1068,9 @@
           href="CompositionRelationship_id-12549727c9044f66aed2a4c089a3d675.xml#id-12549727c9044f66aed2a4c089a3d675"/>
     </sourceConnections>
     <bounds
-        x="828"
-        y="540"
-        width="192"
+        x="840"
+        y="612"
+        width="397"
         height="264"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -1072,8 +1095,8 @@
             href="ServingRelationship_id-15427f3213054bfd9c23044914f45f92.xml#id-15427f3213054bfd9c23044914f45f92"/>
       </sourceConnections>
       <bounds
-          x="36"
-          y="47"
+          x="30"
+          y="36"
           width="120"
           height="55"/>
       <archimateElement
@@ -1096,5 +1119,16 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-cc13bd60c8754aa686c727d85cdde666.xml#id-cc13bd60c8754aa686c727d85cdde666"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-12e04c9536c1466b8e8cc4bacfd044d8"
+      textAlignment="1"
+      content="- VCF = VMWARE CLOUD FOUNDATION&#xD;&#xA;- LICENCIAS BROADCOM (CLIENTE PREVIO)&#xD;&#xA;TKGI--->PKS&#xD;&#xA;- NO HAY RECURSOS&#xD;&#xA;&#xD;&#xA;">
+    <bounds
+        x="1103"
+        y="498"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>

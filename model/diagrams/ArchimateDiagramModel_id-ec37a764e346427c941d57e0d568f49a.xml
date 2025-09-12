@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="0. Arquitectura Empresarial"
-    id="id-ec37a764e346427c941d57e0d568f49a">
+    id="id-ec37a764e346427c941d57e0d568f49a"
+    documentation="Texto Único Ordenado de la Ley Orgánica del Poder Judicial&#xD;&#xA;DECRETO SUPREMO Nº 017-93-JUS&#xD;&#xA;(Publicado: 02.06.1993)&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e4dcddb7db0240e7a6ccc7303f018fc4"

@@ -167,7 +167,7 @@
       <bounds
           x="384"
           y="60"
-          width="421"
+          width="277"
           height="217"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -221,7 +221,7 @@
           targetConnections="id-32e3b493e9bc4f6b8f388b2b8e34df0c"
           type="1">
         <bounds
-            x="275"
+            x="180"
             y="36"
             width="120"
             height="55"/>
@@ -246,6 +246,17 @@
       <archimateElement
           xsi:type="archimate:Grouping"
           href="Grouping_id-108aca6496094a50aa5507eae16444e4.xml#id-108aca6496094a50aa5507eae16444e4"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-c392e7b2adb445889e2d35e14b5ab959"
+        textAlignment="1"
+        content="Ejemplo: Jurisprudencia, gestion de informacion,, &#xD;&#xA;Ejemplo 2: Unidad Organizacional:&#xD;&#xA;&quot;unidad de logistica&quot; &#xD;&#xA;Ejemplo 2: Dominios de negocio:&#xD;&#xA;La unidad de logistica puede comprar, transportar, distribuir y almacenar de manera interna (producir o fabircar bienes) y externa (distribuir productos),&#xD;&#xA;Por lo tanto, los dominios de negocio de Logistica Interna: Compras de Insumos, Trasnporte de Insumos, Almacenamiento de Insumos, Distribucion de Insumos.  &#xD;&#xA;Ejemplo 2: Dominios de servicio:&#xD;&#xA;En Compras de Insumos: &#xD;&#xA;- Gestion de pedidos (100 pares de zapatos al mes) - Unidad de Ventas&#xD;&#xA;- Gestion de proveedor &#xD;&#xA;- Gestion de ofertas&#xD;&#xA;- Gestion de compras&#xD;&#xA;Ejemplo 2: Capacidad de Negocio: Logistica y Compras&#xD;&#xA;Ejemplo 2: Objeto de Negocio principal de gestion de proveedor: Proveedor&#xD;&#xA;Objetos de Negocio secundarios son: Contactos del proveedor, Insumos que ofrece, promociones del proveedor, direccion del proveedor, historial de compras del proveedor, &#xD;&#xA;">
+      <bounds
+          x="684"
+          y="12"
+          width="422"
+          height="277"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -346,17 +357,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelNote"
-        id="id-c392e7b2adb445889e2d35e14b5ab959"
-        textAlignment="1"
-        content="Ejemplo: Jurisprudencia">
-      <bounds
-          x="527"
-          y="12"
-          width="121"
-          height="49"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelNote"
         id="id-3241e6680b144bcabf6fd87b59db2ca3"
         textAlignment="1"
         content="Ejemplo: Análisis de jurisprudencia">
@@ -381,7 +381,7 @@
             href="RealizationRelationship_id-c5dede0ec9f74f31b05cc82607a2d34f.xml#id-c5dede0ec9f74f31b05cc82607a2d34f"/>
       </sourceConnections>
       <bounds
-          x="684"
+          x="900"
           y="24"
           width="120"
           height="49"/>
@@ -483,7 +483,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-14c61ac2a9b1402bb1f62c9de01f5d50"
-        targetConnections="id-36f920f9278d486f8f13495204691623 id-b81333cb024b4ccc82b1057f15c0ac15 id-3c3d1630fef24532b1facdceef687fe4 id-726b4171b69e43478cd9138e2c05d3aa">
+        targetConnections="id-36f920f9278d486f8f13495204691623 id-b81333cb024b4ccc82b1057f15c0ac15 id-3c3d1630fef24532b1facdceef687fe4 id-726b4171b69e43478cd9138e2c05d3aa id-e7760799e1404d73b2dd22dc439f50af">
       <bounds
           x="372"
           y="144"
@@ -694,6 +694,15 @@
         <archimateRelationship
             xsi:type="archimate:AggregationRelationship"
             href="AggregationRelationship_id-eeea73ceb473458fb39240375dac84be.xml#id-eeea73ceb473458fb39240375dac84be"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-e7760799e1404d73b2dd22dc439f50af"
+          source="id-aa5e112cd0c34765b49fd5b47b00c0ae"
+          target="id-14c61ac2a9b1402bb1f62c9de01f5d50">
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_id-fc645a221c4b499398629f9c8260dc39.xml#id-fc645a221c4b499398629f9c8260dc39"/>
       </sourceConnections>
       <bounds
           x="408"
