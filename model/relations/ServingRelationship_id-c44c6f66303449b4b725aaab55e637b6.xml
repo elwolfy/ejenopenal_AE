@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Carga al Hub"
+    id="id-c44c6f66303449b4b725aaab55e637b6">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6bea468cdf0c48c69663a182cf7e85c1.xml#id-6bea468cdf0c48c69663a182cf7e85c1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a31b698d2ade484996e190fa0ccf69ea.xml#id-a31b698d2ade484996e190fa0ccf69ea"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CDC"
+    id="id-47aaad9c47e940fb80c117eb1571e371">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-926bd53c2421496d91aa1ef38ec67210.xml#id-926bd53c2421496d91aa1ef38ec67210"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-cf6b5f5653af47e793b026b37fc463ea.xml#id-cf6b5f5653af47e793b026b37fc463ea"/>
+</archimate:ServingRelationship>

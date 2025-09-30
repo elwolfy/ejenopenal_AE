@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evento"
+    id="id-402cc40cb3cf48a8844b169d846ae2ba">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3f6ce79dda0440b7a5d10f8cfa625687.xml#id-3f6ce79dda0440b7a5d10f8cfa625687"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0e8bfc00085044bebbdabaa40a24ec07.xml#id-0e8bfc00085044bebbdabaa40a24ec07"/>
+</archimate:ServingRelationship>

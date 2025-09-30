@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Exceptions"
+    id="id-6868f754ce8e44b18f42a71ef1fb71cd">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-8b3d326838d34641a20098ef793b62d0.xml#id-8b3d326838d34641a20098ef793b62d0"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-485fe101d44a4b3b83d67e0636a1e6b1.xml#id-485fe101d44a4b3b83d67e0636a1e6b1"/>
+</archimate:TriggeringRelationship>

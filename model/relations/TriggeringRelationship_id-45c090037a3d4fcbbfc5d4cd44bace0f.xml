@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DQ Issues"
+    id="id-45c090037a3d4fcbbfc5d4cd44bace0f">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-8b4d0380918645ca89003422f21a960a.xml#id-8b4d0380918645ca89003422f21a960a"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-485fe101d44a4b3b83d67e0636a1e6b1.xml#id-485fe101d44a4b3b83d67e0636a1e6b1"/>
+</archimate:TriggeringRelationship>

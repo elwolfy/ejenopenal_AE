@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publica datos"
+    id="id-bae84d2500184437820b5e9abc0a5e9d">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c855f58ff77c45858b1c6a7cbd33261c.xml#id-c855f58ff77c45858b1c6a7cbd33261c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fb42427a3c874098a6cb575e07e03226.xml#id-fb42427a3c874098a6cb575e07e03226"/>
+</archimate:ServingRelationship>

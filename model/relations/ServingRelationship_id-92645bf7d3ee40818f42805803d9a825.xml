@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Entrega/ingesta"
+    id="id-92645bf7d3ee40818f42805803d9a825">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-cf6b5f5653af47e793b026b37fc463ea.xml#id-cf6b5f5653af47e793b026b37fc463ea"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6bea468cdf0c48c69663a182cf7e85c1.xml#id-6bea468cdf0c48c69663a182cf7e85c1"/>
+</archimate:ServingRelationship>
